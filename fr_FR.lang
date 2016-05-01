@@ -1,10 +1,11 @@
 /*
 *	Latest translation 06/03/2016
 *   @Author AnDwHaT5
-*	Liste de gens ayant aidé à la correction de ma traduction:
+*	Liste de personnes ayant aidé à la correction de ma traduction:
 *	-Souvtorpixel
 *	-MentalysFR
-*	
+*	-Kibro_
+*
 *	Traduction en français par Keopha/Shueei, pour me contacter @Keodrop sur twitter ou Keopha sur le forum pixelmonmod si vous trouvez un bug ou une erreur !
 *	French translation by Keopha/Shueei, to contact me @Keodrop on twitter or Keopha on the pixelmonmod forum if you find any bug/error !
 *   Hello, and thanks for looking at the lang! If you are here to
@@ -886,7 +887,7 @@ itemGroup.PixelUtilsTools=Outils PixelUtilities
 */
 attack.mimi queue.name=Mimi Queue
 attack.tail whip.name=Mimi Queue
-attack.tail whip.description=Une Attaque qui réduit la Défense de la cible. Utile contre les pokemons défensifs.
+attack.tail whip.description=Une attaque qui réduit la Défense de la cible. Utile contre les pokemons défensifs.
 attack.Charge.name=Charge
 attack.tackle.name=Charge
 attack.tackle.description=Le lanceur charge l'ennemi et le percute de tout son corps.
@@ -895,7 +896,7 @@ attack.growl.name=Rugissement
 attack.growl.description=Le lanceur pousse un cri tout mimi pour tromper la vigilance de l'ennemi et baisser son Attaque.
 attack.Vampigraine.name=Vampigraine
 attack.leech seed.name=Vampigraine
-attack.leech seed.description=Une graine est semée sur l'ennemi. a chaque tour, elle lui dérobe des PV que le lanceur récupère.
+attack.leech seed.description=Une graine est semée sur l'ennemi. À chaque tour, elle lui dérobe des PV que le lanceur récupère.
 attack.fouet lianes.name=Fouet Lianes
 attack.vine whip.name=Fouet Lianes
 attack.vine whip.description=Fouette l'ennemi avec de fines lianes pour infliger des dégâts.
